@@ -1,0 +1,14 @@
+C:\Users\coder\Desktop\EF\sample.dotblog\ORM\EFCore\EF Core Migration\Lab.DAL\bin\netcoreapp3.0\appsettings.json
+C:\Users\coder\Desktop\EF\sample.dotblog\ORM\EFCore\EF Core Migration\Lab.DAL\bin\netcoreapp3.0\Lab.DAL.deps.json
+C:\Users\coder\Desktop\EF\sample.dotblog\ORM\EFCore\EF Core Migration\Lab.DAL\bin\netcoreapp3.0\Lab.DAL.runtimeconfig.json
+C:\Users\coder\Desktop\EF\sample.dotblog\ORM\EFCore\EF Core Migration\Lab.DAL\bin\netcoreapp3.0\Lab.DAL.runtimeconfig.dev.json
+C:\Users\coder\Desktop\EF\sample.dotblog\ORM\EFCore\EF Core Migration\Lab.DAL\bin\netcoreapp3.0\Lab.DAL.dll
+C:\Users\coder\Desktop\EF\sample.dotblog\ORM\EFCore\EF Core Migration\Lab.DAL\bin\netcoreapp3.0\Lab.DAL.pdb
+C:\Users\coder\Desktop\EF\sample.dotblog\ORM\EFCore\EF Core Migration\Lab.DAL\bin\netcoreapp3.0\Lab.DAL.xml
+C:\Users\coder\Desktop\EF\sample.dotblog\ORM\EFCore\EF Core Migration\Lab.DAL\obj\Debug\netcoreapp3.0\Lab.DAL.csproj.AssemblyReference.cache
+C:\Users\coder\Desktop\EF\sample.dotblog\ORM\EFCore\EF Core Migration\Lab.DAL\obj\Debug\netcoreapp3.0\Lab.DAL.AssemblyInfoInputs.cache
+C:\Users\coder\Desktop\EF\sample.dotblog\ORM\EFCore\EF Core Migration\Lab.DAL\obj\Debug\netcoreapp3.0\Lab.DAL.AssemblyInfo.cs
+C:\Users\coder\Desktop\EF\sample.dotblog\ORM\EFCore\EF Core Migration\Lab.DAL\obj\Debug\netcoreapp3.0\Lab.DAL.csproj.CoreCompileInputs.cache
+C:\Users\coder\Desktop\EF\sample.dotblog\ORM\EFCore\EF Core Migration\Lab.DAL\obj\Debug\netcoreapp3.0\Lab.DAL.dll
+C:\Users\coder\Desktop\EF\sample.dotblog\ORM\EFCore\EF Core Migration\Lab.DAL\obj\Debug\netcoreapp3.0\Lab.DAL.pdb
+C:\Users\coder\Desktop\EF\sample.dotblog\ORM\EFCore\EF Core Migration\Lab.DAL\obj\Debug\netcoreapp3.0\Lab.DAL.genruntimeconfig.cache
